@@ -1,0 +1,7 @@
+downloaded_html/
+problematic_domains.log
+spider_log.txt
+CDN-Files.xlsx
+CDN-Files-output.xlsx
+.DS_Store
+domain_list.txt
